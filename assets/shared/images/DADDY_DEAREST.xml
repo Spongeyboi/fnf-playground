@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing Note DOWN0000" x="567" y="790" width="397" height="657" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="1382" y="788" width="373" height="741"/>
+	<SubTexture name="Dad Sing Note RIGHT0000" x="147" y="789" width="373" height="741" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="Dad Sing Note UP0000" x="973" y="801" width="373" height="741" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="Dad idle dance0000" x="75" y="0" width="373" height="741" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>
+
